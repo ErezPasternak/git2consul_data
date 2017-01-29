@@ -1,3 +1,65 @@
 {
-	"sample": "configuration"
+  "varsion": "1.0",
+  "default": {
+    "sort": "url",
+    "noidea": "yes"
+  },
+  "urls": {
+    "1": {
+      "path": "www.walla.co.il",
+      "filedownload": "true",
+	  "fileupload" : "true",
+	  "clipboard"  : "false",
+	  "dsdsd" : "dsdsd"
+    },
+	"2": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"3": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"4": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"5": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"6": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"7": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    },
+	"8": {
+	"path": "www.walla.co.il",
+	"filedownload": "true",
+	"fileupload" : "true",
+	"clipboard"  : "false",
+	"dsdsd" : "dsdsd"
+    }
+  }
 }
